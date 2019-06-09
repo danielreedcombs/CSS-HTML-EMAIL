@@ -3,7 +3,8 @@
 }
 
 .center{
-    text-align: center;
+    display: flex;
+    align-content: space-around;
 }
 
 .yellowBorder{
