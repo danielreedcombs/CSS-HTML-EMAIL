@@ -1,0 +1,19 @@
+.blackBorder{
+    border : black solid 10px
+}
+
+.center{
+    text-align: center;
+}
+
+.yellowBorder{
+    border : yellow solid 5px
+}
+
+.greenBorder{
+    border : green solid 7px
+}
+
+.redBorder{
+    border : red solid 7px
+}
